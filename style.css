@@ -1,7 +1,9 @@
+/* CSS files add styling rules to your content */
+
 body {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: helvetica, arial, sans-serif;
     margin: 2em;
-    background-color: slategray;
+    background-color: slategrey;
     color: white;
 }
 
@@ -10,14 +12,33 @@ h1 {
 }
 
 button {
-    border-radius: 10px;
     padding: 10px;
+    border-radius: 10px;
+    border: grey;
+}
+
+button:hover {
+    background-color: Aliceblue
+}
+
+#startBtn {
+    width: 100px;
+    color: DarkSlateGray;
+}
+
+#stopBtn {
+    width: 100px;
+    color: DarkSlateGray;
+}
+
+#gameButtonArea {
+    margin: 8px;
 }
 
 #gameButtonArea>button {
     width: 200px;
     height: 200px;
-    margin: 2px;
+    margin: 8px;
 }
 
 .hidden {
@@ -58,4 +79,13 @@ button {
 #button4:active,
 #button4.lit {
     background: yellow;
+}
+
+#button5 {
+    background: rgb(127, 165, 58);
+}
+
+#button5:active,
+#button5.lit {
+    background: rgb(184, 238, 59);
 }
