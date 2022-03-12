@@ -75,7 +75,7 @@ My 5-minute Interview Recording - https://www.loom.com/share/e99af36cd2d44bd6821
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Lazizbek Ravshanov]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
