@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 Lose game
-![](lose game.gif)
+![](lose-game.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
