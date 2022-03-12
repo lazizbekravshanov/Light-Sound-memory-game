@@ -46,16 +46,13 @@ Win game
 ![](win-game.gif)
 
 
-![](gif3-link-here)
-
-
-![](gif4-link-here)
-
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-
 Even though I had solid background of HTML, CSS and JS, I used some websites that helped me a lot, one of them being w3schools. 
 Apart from that, I used Mozilla Developer Browser to look through some JS syntax as a refresher.
+
+https://www.w3schools.com/
+https://developer.mozilla.org/en-US/
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 The challenge was to do the logic of the game after I added a new button at the end. It took me sleepless night to find the bug, which was hindering the last button to work when the game started. 
