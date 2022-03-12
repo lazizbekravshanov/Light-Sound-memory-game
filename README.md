@@ -41,8 +41,14 @@ The following **additional** features are implemented:
 
 Lose game
 ![](lose-game.gif)
+
+Win game
 ![](win-game.gif)
+
+
 ![](gif3-link-here)
+
+
 ![](gif4-link-here)
 
 ## Reflection Questions
