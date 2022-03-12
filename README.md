@@ -70,8 +70,8 @@ There are a bunch of customizations to be done on this project yet. One of them 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
-
+My 5-minute Interview Recording - https://www.loom.com/share/e99af36cd2d44bd6821aa81e82c7d5a8
+(Note: The time was 3 a.m. and this is the reason for my voice change 😸)
 
 ## License
 
