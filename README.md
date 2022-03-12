@@ -40,9 +40,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 Lose game
-![](gif1-link-here)
-![](gif2-link-here)
+![](lose-game.gif)
+
+Win game
+![](win-game.gif)
+
+
 ![](gif3-link-here)
+
+
 ![](gif4-link-here)
 
 ## Reflection Questions
